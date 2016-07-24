@@ -1,0 +1,35 @@
+{
+  "name": "react-aria-ui",
+  "version": "0.0.1",
+  "homepage": "https://github.com/souporserious/react-aria-ui",
+  "authors": [
+    "Travis Arnold <ftntravis@gmail.com>"
+  ],
+  "description": "Collection of ARIA compliant React components.",
+  "main": ["./dist/react-aria-ui.js", "./dist/react-aria-ui.min.js"],
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-component",
+    "aria",
+    "accessibility",
+    "accessible",
+    "accordion",
+    "dialog",
+    "dropdown",
+    "modal",
+    "menu",
+    "popover",
+    "tabs",
+    "tab-panel",
+    "widget"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
